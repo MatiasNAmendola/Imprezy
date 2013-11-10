@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry exported="true" kind="lib" path="E:/new sdk/javax/json-path-0.8.0-dependencies/commons-io-2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/new sdk/javax/json-path-0.8.0-dependencies/commons-lang-2.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/new sdk/javax/json-path-0.8.0-dependencies/json-smart-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/new sdk/javax/json-path-0.8.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/new sdk/javax/mail.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/new sdk/javax/activation.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/new sdk/javax/additionnal.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
